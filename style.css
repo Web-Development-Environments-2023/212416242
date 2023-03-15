@@ -18,9 +18,6 @@
 	text-decoration: none;	
 	font-family: 'Franklin Gothic Medium';
 
-
-
-
   }
   
   .navbar a:hover {
@@ -37,11 +34,23 @@
 
   body{
 	margin: 0;
+	background-image: url("backround.jpg");
+
+
   }
+
 
   h1{
 	text-align: center;
 	font-size: 30px;
 	font-family: 'Franklin Gothic Medium';
+	display: table;
+    margin: 0px auto 0px auto;
+    padding: 0px 40px;
+    background-color: white;
+  }
 
+  h1 span{
+	background-color: white;
+	
   }
