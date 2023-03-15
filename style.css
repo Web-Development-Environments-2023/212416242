@@ -1,8 +1,25 @@
-#menu
-{
-	position: rightx;
+.navbar {
+	background-color: black;
+	position: fixed;
 	width: 100%;
-	height: 35px;
-	background: white;
-	
-}
+  }
+  
+  .navbar a {
+	float: right;
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 20px 20px;
+	font-size: 20px;
+	font-family: 'Franklin Gothic Medium';
+
+  }
+  
+  .navbar a:hover {
+	background-color: #04AA6D;
+	color: orange;
+  }
+  
+  .navbar a.active {
+	color: white;
+  }
