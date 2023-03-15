@@ -11,7 +11,7 @@
   .navbar a {
 	float: right;
 	display: block;
-	color: #f2f2f2;
+	color: whitesmoke;
 	text-align: center;
 	padding: 30px 30px;
 	font-size: 20px;
@@ -39,6 +39,9 @@
 	margin: 0;
   }
 
-  #section{
+  h1{
+	text-align: center;
+	font-size: 30px;
+	font-family: 'Franklin Gothic Medium';
 
   }
