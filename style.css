@@ -64,12 +64,13 @@
   p{
 	padding: 0px 40px;
 	display: table;
+	color:wheat;
 	margin: 20px auto 20px auto;
 	border-radius: 20px;
 	text-align: center;
 	font-size: 25px;
-	animation: 2s anim-popoutin ease infinite;
-	font-family: Arial, Helvetica, sans-serif
+	background-color: lightseagreen;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
   }
   
 
