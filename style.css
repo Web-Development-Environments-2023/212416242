@@ -153,3 +153,11 @@
   .tooltip:hover .tooltiptext {
 	visibility: visible;
   }
+  .fb-like {
+    -webkit-transform: scale(3);
+	margin-top: 70px;
+	margin-left: 45%;
+	margin-right: 45%;
+
+
+}
