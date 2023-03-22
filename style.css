@@ -156,8 +156,6 @@
   .fb-like {
     -webkit-transform: scale(3);
 	margin-top: 70px;
-	margin-left: 45%;
-	margin-right: 45%;
   }
 
   form {
@@ -272,13 +270,10 @@
 	  .select-items div:hover, .same-as-selected {
 		background-color: rgba(0, 0, 0, 0.1);
 	  }
-  
-	  div.gallery:hover {
-		border: 1px solid #777;
-	  }
+
 	  
 	  div.gallery img {
-		width: 40%;
+		width: 100%;
 		height: auto;
 	  }
 	  
