@@ -96,7 +96,7 @@
   .waviy span {
 	color: black;
 	text-transform: uppercase;
-	animation: flip 2s infinite;
+	animation: flip 1s infinite;
 	animation-delay: calc(.2s * var(--i))
   }
   @keyframes flip {
@@ -278,7 +278,7 @@
 	  }
 	  
 	  div.gallery img {
-		width: 100%;
+		width: 40%;
 		height: auto;
 	  }
 	  
