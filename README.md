@@ -3,7 +3,7 @@
 Hi tester!
 This is a website about Shlomo Artzi the Legend.
 You can see a variety of stuff about him; his pictures, his songs, and even his thougts about the 3 web versions!
-He also left a personal message to the visitors!
-Enjoy intercative design with alot of thought and legedness!
+He also left a secret message to the visitors if you press the logo!
+Enjoy an intercative design with lots of thought and legedness!
 212416242
 https://web-development-environments-2023.github.io/212416242/
